@@ -11,8 +11,8 @@
 
 ### 🌈 Brought to you by **GCP Decode** × **CloudoArc** 🌈
 
-## Distributed Load Testing Using Kubernetes
-### GSP182
+## VPC Networks - Controlling Access
+### GSP213
 
 <br/>
 
