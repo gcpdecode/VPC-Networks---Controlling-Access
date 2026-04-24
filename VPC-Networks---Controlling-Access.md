@@ -42,9 +42,9 @@
 **🖥️ Open Cloud Shell → Paste → Done!**
 
 ```bash
-curl -LO raw.githubusercontent.com/gcpdecode/Distributed-Load-Testing-Using-Kubernetes/ef6e8ffe6f70d2565d37f582c8e4cd411db327b9/gsp182.sh
-sudo chmod +x gsp182.sh
-./gsp182.sh
+curl -LO raw.githubusercontent.com/gcpdecode/VPC-Networks---Controlling-Access/426451ac55abb0ca38bd1eea4621eeaf25e093fd/gsp213.sh
+sudo chmod +x gsp213.sh
+./gsp213.sh
 ```
 <br/>
 
